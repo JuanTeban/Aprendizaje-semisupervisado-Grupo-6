@@ -1,0 +1,21 @@
+# Dependencias del proyecto
+# Requiere Python 3.12 o superior.
+# Instalación: pip install -r requirements.txt
+#
+# Las versiones están fijadas para reproducir exactamente los resultados del notebook.
+
+# Cálculo numérico y manejo de datos
+numpy==2.5.3
+pandas==3.0.6
+scipy==1.18.1
+
+# Aprendizaje automático
+scikit-learn==1.9.1
+
+# Visualización
+matplotlib==3.11.2
+
+# Entorno de notebooks
+jupyterlab==4.6.4
+ipykernel==7.4.0
+nbconvert==7.17.1
